@@ -1,4 +1,4 @@
-# ![Logo](https://stakecodedrop.com/logo.png) Stake Code Drop — Chrome Extension
+# ![Logo](https://stakecodedrop.com/logo.png) S
 
 > Automate Stake bonus code redemptions the millisecond they drop. No credentials or session cookies required.
 
