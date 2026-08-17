@@ -1,4 +1,4 @@
-# ![Logo](https://stakecodedrop.com/logo.png) S
+# ![Logo](https://stakecodedrop.com/logo.png) 
 
 > Automate Stake bonus code redemptions the millisecond they drop. No credentials or session cookies required.
 
