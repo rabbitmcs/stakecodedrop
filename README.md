@@ -37,6 +37,9 @@ Get the latest live codes directly on our web dashboard at [stakecodedrop.com](h
 
 ---
 
+![Stake Bonus Claim Modal](https://stakecodedrop.com/assets/bonus.png)
+
+
 ## Installation Guide (Developer / Unpacked)
 
 1. **Clone or Download** this repository:
