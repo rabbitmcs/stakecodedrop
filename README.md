@@ -1,10 +1,25 @@
-# Stake Code Drop — Chrome Extension
+# <img src="https://stakecodedrop.com/assets/logo.png" width="32" align="absmiddle"> Stake Code Drop — Chrome Extension
 
 > Automate Stake bonus code redemptions the millisecond they drop. No credentials or session cookies required.
 
-[![Requirements](https://img.shields.io/badge/Browser-Chrome%20%2F%20Chromium-brightgreen)](#prerequisites)
+[![Requirements](https://img.shields.io/badge/Browser-Chrome%2F%20Chromium-brightgreen)](#prerequisites)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Telegram](https://img.shields.io/badge/Telegram-@StakeCodeDrop-blue?logo=telegram)](https://t.me/stakecodedropcom)
+
+---
+
+## Preview
+
+<p align="center">
+  <img src="https://stakecodedrop.com/assets/extension.png" alt="Stake Code Drop Extension Preview" width="700">
+</p>
+
+### Seamless Reward Claims
+The extension instantly opens the native claim modal the second a drop is caught:
+
+<p align="center">
+  <img src="https://stakecodedrop.com/assets/bonus.png" alt="Stake Bonus Claim Modal" width="500">
+</p>
 
 ---
 
@@ -17,22 +32,3 @@ Bonus drops from Stake channels disappear in seconds. **Stake Code Drop** is a l
 * **Instant Execution:** Opens the exact claim URL directly to minimize delay against redemption caps.
 * **Customizable Channels:** Filter by **Daily Drops**, **High Roller Codes**, or **Saturday Stream** codes.
 * **Safe UI Automation:** Functions strictly as a browser helper without performing dangerous account actions.
-
----
-
-## How It Works
-
-1. The extension listens for incoming codes detected via the backend feed or Telegram drop monitoring.
-2. Once a code is captured, it opens the direct redemption link on Stake:
-   `https://stake.com/settings/offers?type=drop&code=YOUR_CODE`
-3. You claim the bonus directly through your active Stake session.
-
----
-
-## Installation Guide (Developer / Unpacked)
-
-Since this extension runs locally to ensure speed and transparency, you can load it directly into any Chromium browser:
-
-1. **Clone or Download** this repository:
-   ```bash
-   git clone [https://github.com/your-username/stake-code-drop.git](https://github.com/your-username/stake-code-drop.git)
