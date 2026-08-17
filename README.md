@@ -44,4 +44,4 @@ Get the latest live codes directly on our web dashboard at [stakecodedrop.com](h
    git clone [https://github.com/your-username/stake-code-drop.git](https://github.com/your-username/stake-code-drop.git)
 
 
-![Stake Bonus Claim Modal](https://stakecodedrop.com/assets/bonus.png)
+
