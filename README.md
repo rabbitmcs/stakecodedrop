@@ -13,10 +13,6 @@
 
 ![Stake Code Drop Extension Preview](https://stakecodedrop.com/assets/extension.png)
 
-### Seamless Reward Claims
-
-![Stake Bonus Claim Modal](https://stakecodedrop.com/assets/bonus.png)
-
 ---
 
 ## Overview
@@ -46,3 +42,6 @@ Get the latest live codes directly on our web dashboard at [stakecodedrop.com](h
 1. **Clone or Download** this repository:
    ```bash
    git clone [https://github.com/your-username/stake-code-drop.git](https://github.com/your-username/stake-code-drop.git)
+
+
+![Stake Bonus Claim Modal](https://stakecodedrop.com/assets/bonus.png)
