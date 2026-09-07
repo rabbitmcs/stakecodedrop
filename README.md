@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://stakecodedrop.com/assets/logo-light.png">
-    <img src="https://stakecodedrop.com/assets/logo-dark.png" alt="Stake Code Drop" width="420">
+    <source media="(prefers-color-scheme: dark)" srcset="https://stakecodedrop.com/assets/logo-wht.png">
+    <img src="https://stakecodedrop.com/assets/logo-blk.png" alt="Stake Code Drop" width="380">
   </picture>
 </p>
 
